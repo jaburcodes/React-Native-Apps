@@ -410,3 +410,5 @@ Android wallpapers manager built with react-native and utlizes reddit api.
 * [Exponent](https://expo.io/@skempin/lyrics-king)
 
 [React Native boileplate](https://github.com/tawachan/react-native-expo-boilerplate) -  A boilerplate to develop a mobile app with React Native and Expo(v32) using TypeScript and Redux (Redux Saga).
+
+### [Brazilian React Native Apps](./BRAZIL.md)
